@@ -42,8 +42,8 @@ A FS web application where instructors can manage courses and content, while stu
 ### [WCC](https://github.com/nianokia/wc-consulting)
 A private therapy practice website for Wright Choice Consulting that provides a clear and user-friendly experience for potential clients and service providers seeking information about the practice, highlighting their expertise and services in a visually appealing format.
 
-### [techtonica-assignments](https://github.com/nianokia/techtonica-assignments)
-Creating projects with Techtonica, a full-time, project-based software engineering program focused on full-stack JavaScript (PERN stack).
+### [GatherSpot](https://github.com/nianokia/gatherspot)
+A FS event management web application where event organizers can create and manage events and attendees can browse and register for events.
 
 <!-- **
 **nianokia/nianokia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
